@@ -59,9 +59,10 @@ See [FIGURE_MAP.md](FIGURE_MAP.md) for the final manuscript numbering.
 
 ## Figure gallery / 图片预览
 
-Figures 1-4 below are the submitted reference renders with editable PPTX
-sources retained in the repository. Figures 5-16 are outputs from the frozen
-V6 plotting package, displayed using the numbering of the submitted manuscript.
+All 16 images below are the exact PNG files embedded in
+`Manuscript_R1_Clean.docx`, in manuscript order. Editable PPTX sources are also
+retained for Figures 1-4. Rebuilt outputs from the frozen V6 plotting package
+can differ in final layout and are kept separately for reproducibility.
 
 <table>
   <tr>
@@ -73,28 +74,28 @@ V6 plotting package, displayed using the numbering of the submitted manuscript.
     <td align="center"><strong>Figure 4 — XRM workflow</strong><br><img src="reference/submitted_main_figures/Figure_04.png" alt="Figure 4, XRM workflow" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 5 — Market structure</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig05/FIG05.png" alt="Figure 5, market structure" width="100%"></td>
-    <td align="center"><strong>Figure 6 — Central forecasting</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig06/FIG06.png" alt="Figure 6, central forecasting" width="100%"></td>
+    <td align="center"><strong>Figure 5 — Market structure</strong><br><img src="reference/submitted_main_figures/Figure_05.png" alt="Figure 5, market structure" width="100%"></td>
+    <td align="center"><strong>Figure 6 — Central forecasting</strong><br><img src="reference/submitted_main_figures/Figure_06.png" alt="Figure 6, central forecasting" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 7 — Stage-wise attribution</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig07/FIG07.png" alt="Figure 7, stage-wise attribution" width="100%"></td>
-    <td align="center"><strong>Figure 8 — RCQR calibration</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig08/FIG08.png" alt="Figure 8, RCQR calibration" width="100%"></td>
+    <td align="center"><strong>Figure 7 — Stage-wise attribution</strong><br><img src="reference/submitted_main_figures/Figure_07.png" alt="Figure 7, stage-wise attribution" width="100%"></td>
+    <td align="center"><strong>Figure 8 — RCQR calibration</strong><br><img src="reference/submitted_main_figures/Figure_08.png" alt="Figure 8, RCQR calibration" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 9 — S2-DA information</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig10/FIG10.png" alt="Figure 9, S2-DA information" width="100%"></td>
-    <td align="center"><strong>Figure 10 — Calendar slices</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig11/FIG11.png" alt="Figure 10, calendar slices" width="100%"></td>
+    <td align="center"><strong>Figure 9 — S2-DA information</strong><br><img src="reference/submitted_main_figures/Figure_09.png" alt="Figure 9, S2-DA information" width="100%"></td>
+    <td align="center"><strong>Figure 10 — Calendar slices</strong><br><img src="reference/submitted_main_figures/Figure_10.png" alt="Figure 10, calendar slices" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 11 — Summer trajectories</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig12/FIG12.png" alt="Figure 11, summer trajectories" width="100%"></td>
-    <td align="center"><strong>Figure 12 — Negative-price regimes</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig13/FIG13.png" alt="Figure 12, negative-price regimes" width="100%"></td>
+    <td align="center"><strong>Figure 11 — Summer trajectories</strong><br><img src="reference/submitted_main_figures/Figure_11.png" alt="Figure 11, summer trajectories" width="100%"></td>
+    <td align="center"><strong>Figure 12 — Negative-price regimes</strong><br><img src="reference/submitted_main_figures/Figure_12.png" alt="Figure 12, negative-price regimes" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 13 — Upper-tail error</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig14/FIG14.png" alt="Figure 13, upper-tail error" width="100%"></td>
-    <td align="center"><strong>Figure 14 — XRM ranking</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig15/FIG15.png" alt="Figure 14, XRM ranking" width="100%"></td>
+    <td align="center"><strong>Figure 13 — Upper-tail error</strong><br><img src="reference/submitted_main_figures/Figure_13.png" alt="Figure 13, upper-tail error" width="100%"></td>
+    <td align="center"><strong>Figure 14 — XRM ranking</strong><br><img src="reference/submitted_main_figures/Figure_14.png" alt="Figure 14, XRM ranking" width="100%"></td>
   </tr>
   <tr>
-    <td align="center"><strong>Figure 15 — Robustness and computation</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig16/FIG16.png" alt="Figure 15, robustness and computation" width="100%"></td>
-    <td align="center"><strong>Figure 16 — Integrated synthesis</strong><br><img src="FINAL_FIGURES4PAPERS_EDITORIAL_V6/Fig17/FIG17.png" alt="Figure 16, integrated synthesis" width="100%"></td>
+    <td align="center"><strong>Figure 15 — Robustness and computation</strong><br><img src="reference/submitted_main_figures/Figure_15.png" alt="Figure 15, robustness and computation" width="100%"></td>
+    <td align="center"><strong>Figure 16 — Integrated synthesis</strong><br><img src="reference/submitted_main_figures/Figure_16.png" alt="Figure 16, integrated synthesis" width="100%"></td>
   </tr>
 </table>
 
