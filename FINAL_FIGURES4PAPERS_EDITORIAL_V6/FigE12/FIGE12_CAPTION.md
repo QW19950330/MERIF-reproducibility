@@ -1,0 +1,1 @@
+Fig. E12. P95 recall for XRM and TSQR q0.90 at fixed 0.5%, 1%, 2%, and 5% review budgets on the S1 COMMON_MASK. Panels (a-e) are market-specific and panel (f) shows the cross-market XRM median and IQR. Lines join only ordered budget levels. These are post-scoring capacity summaries, not alarm thresholds or deployment policies; ES and FR remain extremely low-support.

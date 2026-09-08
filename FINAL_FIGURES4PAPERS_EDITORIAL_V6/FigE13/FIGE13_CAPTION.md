@@ -1,0 +1,1 @@
+Fig. E13. Complete predefined S1 feature-outage diagnostics on the COMMON_MASK. Heatmaps report changes in normalized MAE, normalized pinball loss, normalized W60 RCQR interval score, and P95 XRM AUPRC. Positive and negative signs retain their metric-specific meanings. The outages are diagnostic perturbations and do not establish causal feature importance.

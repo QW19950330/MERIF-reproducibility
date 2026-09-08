@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Local outputs
+outputs/
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials.*
+
+# Historical intermediate packages retained only in the local extracted copy
+03_publication_figures/
+03_publication_figures_figures4papers_v2/
+04_appendix_figures/
+04_publication_figures_high_density_v3/
+05_captions/
+05_publication_figures_diverse_v4/
+06_section3_redesign/
+07_manuscript_restructure/
+11_submission_redesign_v5/
+code/

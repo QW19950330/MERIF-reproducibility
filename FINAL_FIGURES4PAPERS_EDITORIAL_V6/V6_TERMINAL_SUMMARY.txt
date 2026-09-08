@@ -1,0 +1,68 @@
+MERIF V6 EDITORIAL FIGURE RECONSTRUCTION SUMMARY
+
+figures4papers skill:
+scientific-figure-making (figures4papers-compatible Matplotlib workflow)
+path:
+local Codex scientific-figure-making skill (environment-specific)
+
+Candidate figures rendered:
+Fig. 5: Five-market exploratory structure and support context
+Fig. 6: Probabilistic benchmark hierarchy and paired effects
+Fig. 7: Cross-market transition diagnostics
+Fig. 8: Raw-to-RCQR calibration and sharpness pairs
+Fig. 9: Window-length sensitivity
+Fig. 10: S1 versus S2_DA information-availability effects
+Fig. 11: Temporal and rolling-origin robustness summary
+Fig. 12: Exact locked-window forecast trajectories
+Fig. 13: Negative-price-state diagnostics
+Fig. 14: Frozen upper-tail threshold sensitivity
+Fig. 15: XRM discrimination, effects, and support qualification
+Fig. 16: Computational cost
+Fig. 17: Outage robustness
+
+Required main-text figures:
+Fig. 5, Fig. 6, Fig. 8, Fig. 10, Fig. 11, Fig. 12, Fig. 13, Fig. 14, Fig. 15, and Fig. 17
+Optional main-text figures:
+Fig. 16
+Supplementary figures:
+Fig. 7, Fig. 9, and Figs. E1-E15
+
+Same-type small-multiple groups created:
+market-faceted EDA, paired dot/dumbbell summaries, effect-and-CI facets, ordered threshold profiles, exact trajectory panels, and market-faceted robustness summaries
+
+Figures containing lines:
+Fig. 5, Fig. 6, Fig. 8, Fig. 9, Fig. 10, Fig. 12, Fig. 13, Fig. 14, Fig. 15, Fig. 16, and Fig. 17
+
+For every line figure:
+continuous/order justification:
+Lines are limited to continuous time or lag axes, ordered frozen thresholds/windows, confidence intervals, paired before-after states, or lollipop connectors; no nominal category is presented as a continuous trajectory.
+data smoothing used:
+NO
+visual-only PCHIP used:
+NO
+no-overshoot check:
+NOT APPLICABLE
+
+Discrete categories connected by lines:
+NO
+
+Low-support XRM qualification:
+PASS
+
+COMMON_MASK/GLOBAL_COMMON consistency:
+PASS
+
+Section 3 rewritten:
+YES
+
+Experiment-report language remaining:
+NO
+
+All values trace to frozen source:
+YES
+
+New model fitting performed:
+NO
+
+Final editorial recommendation:
+Use the ten required figures in the main text, retain Fig. 16 only if the journal layout permits, and move Fig. 7, Fig. 9, and Figs. E1-E15 to the Appendix/Supplementary Information. This preserves a compact five-market argument while keeping the full frozen evidence trail available for review.

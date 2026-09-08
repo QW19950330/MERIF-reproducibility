@@ -1,0 +1,1 @@
+Fig. E7. MARKET_VALID sensitivity for the four information settings. Metrics and encoding match Fig. E6, but each market-setting cell uses its own valid mask. These estimates are supplementary and are not mixed with the paired GLOBAL_COMMON comparison; S3 remains ex-post.

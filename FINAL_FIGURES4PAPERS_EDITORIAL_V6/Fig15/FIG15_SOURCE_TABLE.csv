@@ -1,0 +1,26 @@
+﻿panel,market,metric,setting,mask,value,source_file,source_row_key,display_transformation,support_N,inferential_status,method,low,high
+a,DE-LU,P95_AUPRC,S1,COMMON_MASK,0.0029390634184573,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,2,identity,45.0,descriptive,Prevalence,,
+a,DE-LU,P95_AUPRC,S1,COMMON_MASK,0.1989315253277127,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,2,identity,45.0,descriptive,TSQR q0.50,,
+a,DE-LU,P95_AUPRC,S1,COMMON_MASK,0.1835856778331361,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,2,identity,45.0,descriptive,TSQR q0.90,,
+a,DE-LU,P95_AUPRC,S1,COMMON_MASK,0.064004579448974,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,2,identity,45.0,descriptive,XRM,,
+b,DK1,P95_AUPRC,S1,COMMON_MASK,0.0027431258572268,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,7,identity,42.0,descriptive,Prevalence,,
+b,DK1,P95_AUPRC,S1,COMMON_MASK,0.189026155585594,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,7,identity,42.0,descriptive,TSQR q0.50,,
+b,DK1,P95_AUPRC,S1,COMMON_MASK,0.1734968216134287,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,7,identity,42.0,descriptive,TSQR q0.90,,
+b,DK1,P95_AUPRC,S1,COMMON_MASK,0.1491707899439046,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,7,identity,42.0,descriptive,XRM,,
+c,BE,P95_AUPRC,S1,COMMON_MASK,0.0009796878061524,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,12,identity,15.0,descriptive,Prevalence,,
+c,BE,P95_AUPRC,S1,COMMON_MASK,0.1631052742673764,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,12,identity,15.0,descriptive,TSQR q0.50,,
+c,BE,P95_AUPRC,S1,COMMON_MASK,0.1743371237682706,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,12,identity,15.0,descriptive,TSQR q0.90,,
+c,BE,P95_AUPRC,S1,COMMON_MASK,0.1559142728890627,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,12,identity,15.0,descriptive,XRM,,
+d,ES,P95_AUPRC,S1,COMMON_MASK,6.531252041016262e-05,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,17,identity,1.0,descriptive only,Prevalence,,
+d,ES,P95_AUPRC,S1,COMMON_MASK,0.125,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,17,identity,1.0,descriptive only,TSQR q0.50,,
+d,ES,P95_AUPRC,S1,COMMON_MASK,0.25,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,17,identity,1.0,descriptive only,TSQR q0.90,,
+d,ES,P95_AUPRC,S1,COMMON_MASK,0.2,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,17,identity,1.0,descriptive only,XRM,,
+e,FR,P95_AUPRC,S1,COMMON_MASK,6.531252041016262e-05,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,22,identity,1.0,descriptive only,Prevalence,,
+e,FR,P95_AUPRC,S1,COMMON_MASK,0.0096153846153846,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,22,identity,1.0,descriptive only,TSQR q0.50,,
+e,FR,P95_AUPRC,S1,COMMON_MASK,0.010752688172043,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,22,identity,1.0,descriptive only,TSQR q0.90,,
+e,FR,P95_AUPRC,S1,COMMON_MASK,0.0212765957446808,MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv,22,identity,1.0,descriptive only,XRM,,
+f,DE-LU,XRM_minus_q0.90_AUPRC,S1,COMMON_MASK,-0.1140566829062904,MERIF_FIVE_MARKET_MASTER_PUBLICATION/SUPPLEMENTARY_FIVE_MARKET/FIVE_MARKET_XRM_INFERENCE.csv,0,identity; positive favors XRM,45.0,168h moving-block bootstrap,,-0.2222541353246072,-0.0073754175338848
+f,DK1,XRM_minus_q0.90_AUPRC,S1,COMMON_MASK,-0.0084585993355458,MERIF_FIVE_MARKET_MASTER_PUBLICATION/SUPPLEMENTARY_FIVE_MARKET/FIVE_MARKET_XRM_INFERENCE.csv,4,identity; positive favors XRM,42.0,168h moving-block bootstrap,,-0.0589979436072565,0.0790647231085625
+f,BE,XRM_minus_q0.90_AUPRC,S1,COMMON_MASK,-0.0188267883363777,MERIF_FIVE_MARKET_MASTER_PUBLICATION/SUPPLEMENTARY_FIVE_MARKET/FIVE_MARKET_XRM_INFERENCE.csv,8,identity; positive favors XRM,15.0,168h moving-block bootstrap,,-0.0811275330521311,0.0276274470911949
+f,ES,XRM_minus_q0.90_AUPRC,S1,COMMON_MASK,-0.0711547856796982,MERIF_FIVE_MARKET_MASTER_PUBLICATION/SUPPLEMENTARY_FIVE_MARKET/FIVE_MARKET_XRM_INFERENCE.csv,12,identity; positive favors XRM,1.0,descriptive only,,-0.3333333333333333,0.1285714285714285
+f,FR,XRM_minus_q0.90_AUPRC,S1,COMMON_MASK,0.0148305720384901,MERIF_FIVE_MARKET_MASTER_PUBLICATION/SUPPLEMENTARY_FIVE_MARKET/FIVE_MARKET_XRM_INFERENCE.csv,16,identity; positive favors XRM,1.0,descriptive only,,0.0009469696969696,0.0348659003831417

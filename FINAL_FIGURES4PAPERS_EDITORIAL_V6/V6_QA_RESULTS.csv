@@ -1,0 +1,325 @@
+round,check,status,detail
+Round 1: technical and lineage QA,Fig05: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig05: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig05: source-to-lineage value parity,PASS,630 rows compared
+Round 1: technical and lineage QA,Fig05: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig05: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig05: 600-dpi combined PNG,PASS,"4192 x 3106 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig05: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig05: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig05: independent panel exports,PASS,4 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig05: caption form,PASS,prefix=Fig. 5.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig05: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig06: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig06: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig06: source-to-lineage value parity,PASS,40 rows compared
+Round 1: technical and lineage QA,Fig06: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig06: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig06: 600-dpi combined PNG,PASS,"4193 x 2893 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig06: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig06: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig06: independent panel exports,PASS,4 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig06: caption form,PASS,prefix=Fig. 6.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig06: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig07: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig07: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig07: source-to-lineage value parity,PASS,24 rows compared
+Round 1: technical and lineage QA,Fig07: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig07: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig07: 600-dpi combined PNG,PASS,"4197 x 2681 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig07: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig07: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig07: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig07: caption form,PASS,prefix=Fig. 7.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig07: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig08: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig08: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig08: source-to-lineage value parity,PASS,40 rows compared
+Round 1: technical and lineage QA,Fig08: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig08: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig08: 600-dpi combined PNG,PASS,"4192 x 1499 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig08: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig08: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig08: independent panel exports,PASS,4 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig08: caption form,PASS,prefix=Fig. 8.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig08: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig09: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig09: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig09: source-to-lineage value parity,PASS,30 rows compared
+Round 1: technical and lineage QA,Fig09: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig09: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig09: 600-dpi combined PNG,PASS,"4194 x 2681 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig09: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig09: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig09: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig09: caption form,PASS,prefix=Fig. 9.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig09: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig10: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig10: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig10: source-to-lineage value parity,PASS,30 rows compared
+Round 1: technical and lineage QA,Fig10: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig10: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig10: 600-dpi combined PNG,PASS,"4192 x 1523 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig10: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig10: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig10: independent panel exports,PASS,3 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig10: caption form,PASS,prefix=Fig. 10.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig10: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig11: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig11: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig11: source-to-lineage value parity,PASS,30 rows compared
+Round 1: technical and lineage QA,Fig11: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig11: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig11: 600-dpi combined PNG,PASS,"3574 x 1578 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig11: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig11: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig11: independent panel exports,PASS,2 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig11: caption form,PASS,prefix=Fig. 11.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig11: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig12: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig12: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig12: source-to-lineage value parity,PASS,"5,040 rows compared"
+Round 1: technical and lineage QA,Fig12: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig12: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig12: 600-dpi combined PNG,PASS,"4191 x 2725 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig12: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig12: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig12: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig12: caption form,PASS,prefix=Fig. 12.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig12: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig13: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig13: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig13: source-to-lineage value parity,PASS,45 rows compared
+Round 1: technical and lineage QA,Fig13: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig13: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig13: 600-dpi combined PNG,PASS,"4180 x 2373 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig13: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig13: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig13: independent panel exports,PASS,10 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig13: caption form,PASS,prefix=Fig. 13.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig13: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig14: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig14: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig14: source-to-lineage value parity,PASS,24 rows compared
+Round 1: technical and lineage QA,Fig14: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig14: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig14: 600-dpi combined PNG,PASS,"4195 x 2679 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig14: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig14: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig14: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig14: caption form,PASS,prefix=Fig. 14.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig14: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig15: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig15: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig15: source-to-lineage value parity,PASS,25 rows compared
+Round 1: technical and lineage QA,Fig15: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig15: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig15: 600-dpi combined PNG,PASS,"4193 x 2704 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig15: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig15: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig15: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig15: caption form,PASS,prefix=Fig. 15.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig15: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig16: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig16: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig16: source-to-lineage value parity,PASS,45 rows compared
+Round 1: technical and lineage QA,Fig16: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig16: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig16: 600-dpi combined PNG,PASS,"4188 x 2680 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig16: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig16: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig16: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig16: caption form,PASS,prefix=Fig. 16.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig16: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Fig17: required artifacts,PASS,complete
+Round 1: technical and lineage QA,Fig17: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,Fig17: source-to-lineage value parity,PASS,25 rows compared
+Round 1: technical and lineage QA,Fig17: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,Fig17: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,Fig17: 600-dpi combined PNG,PASS,"4195 x 1595 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,Fig17: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,Fig17: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,Fig17: independent panel exports,PASS,5 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,Fig17: caption form,PASS,prefix=Fig. 17.; stand-alone prose caption
+Round 1: technical and lineage QA,Fig17: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE01: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE01: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE01: source-to-lineage value parity,PASS,948 rows compared
+Round 1: technical and lineage QA,FigE01: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE01: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE01: 600-dpi combined PNG,PASS,"4200 x 2627 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE01: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE01: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE01: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE01: caption form,PASS,prefix=Fig. E1.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE01: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE02: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE02: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE02: source-to-lineage value parity,PASS,948 rows compared
+Round 1: technical and lineage QA,FigE02: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE02: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE02: 600-dpi combined PNG,PASS,"4196 x 2627 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE02: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE02: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE02: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE02: caption form,PASS,prefix=Fig. E2.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE02: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE03: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE03: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE03: source-to-lineage value parity,PASS,948 rows compared
+Round 1: technical and lineage QA,FigE03: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE03: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE03: 600-dpi combined PNG,PASS,"4196 x 2627 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE03: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE03: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE03: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE03: caption form,PASS,prefix=Fig. E3.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE03: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE04: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE04: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE04: source-to-lineage value parity,PASS,948 rows compared
+Round 1: technical and lineage QA,FigE04: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE04: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE04: 600-dpi combined PNG,PASS,"4196 x 2627 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE04: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE04: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE04: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE04: caption form,PASS,prefix=Fig. E4.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE04: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE05: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE05: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE05: source-to-lineage value parity,PASS,948 rows compared
+Round 1: technical and lineage QA,FigE05: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE05: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE05: 600-dpi combined PNG,PASS,"4198 x 2627 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE05: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE05: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE05: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE05: caption form,PASS,prefix=Fig. E5.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE05: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE06: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE06: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE06: source-to-lineage value parity,PASS,120 rows compared
+Round 1: technical and lineage QA,FigE06: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE06: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE06: 600-dpi combined PNG,PASS,"3579 x 2709 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE06: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE06: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE06: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE06: caption form,PASS,prefix=Fig. E6.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE06: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE07: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE07: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE07: source-to-lineage value parity,PASS,120 rows compared
+Round 1: technical and lineage QA,FigE07: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE07: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE07: 600-dpi combined PNG,PASS,"3579 x 2709 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE07: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE07: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE07: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE07: caption form,PASS,prefix=Fig. E7.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE07: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE08: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE08: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE08: source-to-lineage value parity,PASS,"5,040 rows compared"
+Round 1: technical and lineage QA,FigE08: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE08: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE08: 600-dpi combined PNG,PASS,"4188 x 2726 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE08: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE08: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE08: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE08: caption form,PASS,prefix=Fig. E8.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE08: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE09: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE09: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE09: source-to-lineage value parity,PASS,"5,040 rows compared"
+Round 1: technical and lineage QA,FigE09: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE09: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE09: 600-dpi combined PNG,PASS,"4192 x 2727 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE09: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE09: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE09: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE09: caption form,PASS,prefix=Fig. E9.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE09: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE10: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE10: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE10: source-to-lineage value parity,PASS,110 rows compared
+Round 1: technical and lineage QA,FigE10: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE10: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE10: 600-dpi combined PNG,PASS,"4194 x 2799 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE10: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE10: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE10: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE10: caption form,PASS,prefix=Fig. E10.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE10: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE11: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE11: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE11: source-to-lineage value parity,PASS,125 rows compared
+Round 1: technical and lineage QA,FigE11: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE11: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE11: 600-dpi combined PNG,PASS,"4194 x 2726 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE11: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE11: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE11: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE11: caption form,PASS,prefix=Fig. E11.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE11: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE12: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE12: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE12: source-to-lineage value parity,PASS,84 rows compared
+Round 1: technical and lineage QA,FigE12: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE12: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE12: 600-dpi combined PNG,PASS,"4196 x 2681 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE12: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE12: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE12: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE12: caption form,PASS,prefix=Fig. E12.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE12: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE13: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE13: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE13: source-to-lineage value parity,PASS,100 rows compared
+Round 1: technical and lineage QA,FigE13: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE13: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE13: 600-dpi combined PNG,PASS,"3562 x 2758 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE13: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE13: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE13: independent panel exports,PASS,4 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE13: caption form,PASS,prefix=Fig. E13.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE13: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE14: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE14: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE14: source-to-lineage value parity,PASS,35 rows compared
+Round 1: technical and lineage QA,FigE14: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE14: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE14: 600-dpi combined PNG,PASS,"4189 x 2468 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE14: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE14: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE14: independent panel exports,PASS,8 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE14: caption form,PASS,prefix=Fig. E14.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE14: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,FigE15: required artifacts,PASS,complete
+Round 1: technical and lineage QA,FigE15: lineage schema,PASS,required fields present
+Round 1: technical and lineage QA,FigE15: source-to-lineage value parity,PASS,40 rows compared
+Round 1: technical and lineage QA,FigE15: provenance fields populated,PASS,"source, row key, transformation, and status populated"
+Round 1: technical and lineage QA,FigE15: frozen-source hashes,PASS,all source hashes verified
+Round 1: technical and lineage QA,FigE15: 600-dpi combined PNG,PASS,"4193 x 2725 px; dpi=(599.9988, 599.9988)"
+Round 1: technical and lineage QA,FigE15: one-page vector PDF,PASS,pages=1
+Round 1: technical and lineage QA,FigE15: editable SVG typography,PASS,text retained and Times New Roman declared
+Round 1: technical and lineage QA,FigE15: independent panel exports,PASS,6 panels in PNG/PDF/SVG
+Round 2: editorial and graphical QA,FigE15: caption form,PASS,prefix=Fig. E15.; stand-alone prose caption
+Round 1: technical and lineage QA,FigE15: no new fitting or selection,PASS,plotting-only script
+Round 1: technical and lineage QA,Main-text COMMON_MASK contract,PASS,"all non-EDA, non-cross-setting, non-trajectory main figures use COMMON_MASK"
+Round 1: technical and lineage QA,Fig10 GLOBAL_COMMON S1/S2_DA contract,PASS,"masks=['GLOBAL_COMMON']; settings=['S1', 'S2_DA']"
+Round 1: technical and lineage QA,Fig12 locked-window trajectory contract,PASS,masks=['LOCKED_WINDOW']
+Round 2: editorial and graphical QA,S3 restricted from main-text figures,PASS,S3 remains an ex-post supplementary sensitivity
+Round 2: editorial and graphical QA,Low-support ES/FR XRM qualification,PASS,ES and FR P95 cells have n=1 and are marked descriptive only
+Round 1: technical and lineage QA,Fig14 frozen tail thresholds only,PASS,P90/P95/P97.5/P99 only; straight guides; no PCHIP
+Round 1: technical and lineage QA,Fig12 exact unsmoothed trajectories,PASS,every trajectory row explicitly records no smoothing
+Round 2: editorial and graphical QA,Section 3 final: nine-subsection architecture,PASS,"headings=3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9"
+Round 2: editorial and graphical QA,Section 3 final: three-paragraph rhythm,PASS,3.1=3; 3.2=3; 3.3=3; 3.4=3; 3.5=3; 3.6=3; 3.7=3; 3.8=3; 3.9=3
+Round 2: editorial and graphical QA,Section 3 condensed: nine-subsection architecture,PASS,"headings=3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9"
+Round 2: editorial and graphical QA,Section 3 condensed: three-paragraph rhythm,PASS,3.1=3; 3.2=3; 3.3=3; 3.4=3; 3.5=3; 3.6=3; 3.7=3; 3.8=3; 3.9=3
+Round 2: editorial and graphical QA,Section 3 calls out Fig. 5-Fig. 17,PASS,all candidate main-text figure numbers are referenced
+Round 2: editorial and graphical QA,Experiment-report and AI-tic language removed,PASS,no targeted tics found
+Round 2: editorial and graphical QA,Section 3 S3 qualification,PASS,"2 S3-containing paragraph(s), all explicitly ex-post"
+Round 2: editorial and graphical QA,Figure-callout alignment ledger,PASS,9 figure rows fully populated
+Round 2: editorial and graphical QA,Architecture and skill-audit records,PASS,"skill audit, freeze, decisions, terminology ledger, and contact sheet present"

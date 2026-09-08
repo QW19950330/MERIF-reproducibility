@@ -1,0 +1,1146 @@
+{
+  "manifest_version": "1.0",
+  "generated_utc": "2026-08-22T19:18:35.876892+00:00",
+  "scientific_scope": "Five locally re-estimated European day-ahead bidding-zone workflows: DE-LU, DK1, BE, ES, FR",
+  "authoritative_hierarchy": {
+    "primary": "S1",
+    "main_extension": "S2_DA",
+    "secondary_sensitivity": "S2_LEGACY",
+    "ex_post_upper_bound": "S3"
+  },
+  "primary_common_mask_N_per_market": 15311,
+  "model_fitting_during_packaging": false,
+  "source_files": [
+    {
+      "path": "Manuscript_Revised_Final_MARKED.md",
+      "bytes": 117917,
+      "sha256": "4f386f146baaf050c930e988e4d2241387f8672c68319a8e589ea02cc2ba7cc2"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_METHOD_LOCK.json",
+      "bytes": 7490,
+      "sha256": "da9a40e12945669f8dd9999f3874b2b320a464ed81ccf50a95b2bde0c9f44e52"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_METHOD_LOCK.sha256",
+      "bytes": 95,
+      "sha256": "2f53ccdb5662c1cdbfb92bac651b07abd619393a031e070836938240f6e03c63"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_MARKET_FINGERPRINT.csv",
+      "bytes": 1568,
+      "sha256": "b5f6a9787ffbe0a98a73d48b24478f748b72247d026571dc9c0e17c796939957"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_COMMON_TEST_TIMESTAMPS.csv",
+      "bytes": 489993,
+      "sha256": "da3840fe573416cde46b6bd3cbd4d6c5d1240d01fcb4fcd30104d58aab6053db"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_NORMALIZED_METRICS.csv",
+      "bytes": 4248,
+      "sha256": "01c0add439c31a708061246c443419ad41d5ae5a25a014bd1a1110908cff8612"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_MODULE_ATTRIBUTION.csv",
+      "bytes": 8955,
+      "sha256": "85df5ceaec793c0147f97d4ecc90823335c40c622b7cdeee7a30c5c8dff32ee3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_TSQR_INFERENCE.csv",
+      "bytes": 11779,
+      "sha256": "76160d21509bcb1b1eeb3bdc3158ea41baf8db38cc40d6fd2f7f7835e26c4583"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_RCQR_MAIN.csv",
+      "bytes": 3592,
+      "sha256": "652c761d026aac8a6f7c135ce3dde04ce491795ac67477123fe7648abe1c9dc4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_RCQR_INFERENCE.csv",
+      "bytes": 5540,
+      "sha256": "f87cd4be31e680802b9f0ed81984659d035097b4a8dd751e71e01cb301b3f0b4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_TEMPORAL_SLICES.csv",
+      "bytes": 8843,
+      "sha256": "97c65445416e0f98f56a31eccaea5fe27f9ad231384857e8ae2f79faf9c0435d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_ROLLING_ORIGIN.csv",
+      "bytes": 3634,
+      "sha256": "c8b7080622f4ada96ab9049d38c48fa8f7fa8c4b04258b5935b9689dc0bb62a3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_NEGATIVE_PRICE_REGIMES.csv",
+      "bytes": 2482,
+      "sha256": "95ae01abcd956eda8860dccbdd6ba2595ab25a94cd2d491bd2cd7909e24b8d90"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_UPPER_TAIL_ERROR_ESCALATION.csv",
+      "bytes": 5198,
+      "sha256": "c09fe869c418c7c9c100bf12421fe7aa020fdf3165b69445639a389d06ae3209"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_XRM_PRIMARY.csv",
+      "bytes": 6134,
+      "sha256": "78809741574726f0d529cb746b6ec1c3475ac632198797d986d5ed4e86d5c7b1"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_XRM_SUPPORT_SENSITIVITY.csv",
+      "bytes": 10874,
+      "sha256": "9f0af5d513aca9ab7eb3c88d0edfe1db89b9d5c1e03cbed05138d68f91db71b6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_XRM_BUDGETS.csv",
+      "bytes": 19349,
+      "sha256": "1253ad1f254835b5d7550211fc0590c6ea46e92011f1ef2e04340a72a855165c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_RCQR_WINDOW_SENSITIVITY.csv",
+      "bytes": 13533,
+      "sha256": "bd2983ce9f64d950e0ad50af9bb026cc9877270f41a91b748b4289e2678e1976"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_S1_FEATURE_OUTAGE.csv",
+      "bytes": 21870,
+      "sha256": "c4366f133da86d50cd518fc1ae3568bbe8b82928f4e4b621f29eb135b06b88da"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/FIVE_MARKET_COMPUTATIONAL_COST.csv",
+      "bytes": 3300,
+      "sha256": "5d5d5d6d9ccf50a0ac2098f3e94334530c002f74e24f6c64c65a35dde9a68602"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/TRAJECTORY_WINDOW_LOCK.json",
+      "bytes": 556,
+      "sha256": "eb96249715447ac9aa13b64e16998bcb743b0755ffa015f5b7e03abf7ef77ca0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/FOR_CHATGPT_FULL_FIVE_MARKET_EXPERIMENT_REVIEW.md",
+      "bytes": 805952,
+      "sha256": "072c8a3eeebbb1ad3550bc90245e61885d4ce76b4d78e6f38340ad856394db5d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/FIVE_MARKET_S2_S3_XRM_REPRODUCIBILITY_MANIFEST.json",
+      "bytes": 123971,
+      "sha256": "b7a860ff83e4c7f27bb5d63b2182620d81a165a8635aca4174b7e4a88a885745"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/comparison/CROSS_SETTING_METRICS.csv",
+      "bytes": 11118,
+      "sha256": "363b3dad7999ffc1840acb051f207960064acdff4093683d411b52584fa0ef51"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/comparison/CROSS_SETTING_DELTAS.csv",
+      "bytes": 62757,
+      "sha256": "24ee0a3cbcf33f0a2240c4b5e7edcd3ee2d7392c4fa27138698c0f11721477ff"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/comparison/CROSS_SETTING_PAIRED_BLOCK_BOOTSTRAP.csv",
+      "bytes": 24697,
+      "sha256": "5f00c57fdcf88a44bef4872156a88ef09708b11eb053a6afcb971ceccfedde9b"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_DA/FIVE_MARKET_NORMALIZED_METRICS.csv",
+      "bytes": 4264,
+      "sha256": "d2759d71ca46927807dc369e9ae9070fe02d9f05e35c91531880c4c7693676b3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_DA/FIVE_MARKET_RCQR_MAIN.csv",
+      "bytes": 3586,
+      "sha256": "2fe5ce5ab553e4bfc7eb718dddff5b332a5148c635c4b2ae28bfce860221ecd3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_DA/FIVE_MARKET_MODULE_ATTRIBUTION.csv",
+      "bytes": 8948,
+      "sha256": "d0f3da3e976ad94d89550ccb8d223a937f4375200f80606b0060925909bdc35f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_DA/FIVE_MARKET_XRM_PRIMARY.csv",
+      "bytes": 6030,
+      "sha256": "ae46fe062f0f176edc5ac8f8b13aa745ffe142998b258d193d3ac0567829dfbc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_LEGACY/FIVE_MARKET_NORMALIZED_METRICS.csv",
+      "bytes": 4251,
+      "sha256": "c6efa0c94576ee3bbee8ac061b66672aa3639ff61d4f3d4ae876f0723c351dd5"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_LEGACY/FIVE_MARKET_RCQR_MAIN.csv",
+      "bytes": 3597,
+      "sha256": "04c2081e574a2f12fc7b8975fca25a6849d90908be4cf73010ec6c15ca2b7bf7"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_LEGACY/FIVE_MARKET_MODULE_ATTRIBUTION.csv",
+      "bytes": 8953,
+      "sha256": "b9b69160f8a0e52e782aeb78712d99134febece89503b8033216f810d2497ab0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S2_LEGACY/FIVE_MARKET_XRM_PRIMARY.csv",
+      "bytes": 6164,
+      "sha256": "607f1d0061792d53a3e4a0577484c7d9f09574cf02cb9decb08f4f97668327dd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S3/FIVE_MARKET_NORMALIZED_METRICS.csv",
+      "bytes": 4267,
+      "sha256": "42f617fff9a2b3ac2d4f40c7115745b2ec05053c637b3f4649419d0bc3307394"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S3/FIVE_MARKET_RCQR_MAIN.csv",
+      "bytes": 3597,
+      "sha256": "f8c802558889535dfc384d4eadd0b44c03f0c0593f4887227215ffd6a6d97fd4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S3/FIVE_MARKET_MODULE_ATTRIBUTION.csv",
+      "bytes": 8917,
+      "sha256": "a9e1d998ff3bc90a1dc57986dab52e653a3d6ff58e74e4bc5b5e7539f2c4e006"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/analysis/S3/FIVE_MARKET_XRM_PRIMARY.csv",
+      "bytes": 6081,
+      "sha256": "3dbee3ac1ab9bfe70b3c3d6b219581e05fe76e895ccf5c55391e614d38189399"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/feature_matrices/DE-LU/DE-LU_S1_feature_matrix.parquet",
+      "bytes": 12539742,
+      "sha256": "b55c3ef219d01f3b36eb7ecd404a4d208e35d80c5a4458ecc835dd70b1151941"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/DE-LU_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6379415,
+      "sha256": "a3abf6bef970b1145c29c81e0d40527bd4bd5ac0f959d5f660540695fd043223"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/feature_matrices/DK1/DK1_S1_feature_matrix.parquet",
+      "bytes": 14612305,
+      "sha256": "76ce9c36d898a6c15c99d1ba386c36e86a68a19354a2789a01425a2ee245ee33"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/DK1_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6420016,
+      "sha256": "2cdc757eb71273a7baa09f552a7d36ea7a72bb62b51db883ed4acbcede44a7f0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/feature_matrices/BE/BE_S1_feature_matrix.parquet",
+      "bytes": 12462249,
+      "sha256": "ff218dc2818b6bc30924b5909176224aa95ce01b596ee1d3dc945954a6717a93"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/BE_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6374049,
+      "sha256": "ebba1e5097ac82f5fa0ba965a02e8051a94e12743e008ab463b4967800140fe6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/feature_matrices/ES/ES_S1_feature_matrix.parquet",
+      "bytes": 12067351,
+      "sha256": "7dccaa3eaca12a68214e110b6ddad9f6074f2c61e1fe3326fb5aaf1e6bff716f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/ES_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6191439,
+      "sha256": "a1998c33c0b6f8eb0174cf6e992ff9c121b8a55a5faed4feecfd87a88aa33a9d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/feature_matrices/FR/FR_S1_feature_matrix.parquet",
+      "bytes": 12509453,
+      "sha256": "ebc992b333ef4e159c095a5042858f4521a40a840ffd07299b7e7a99e5923ceb"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/FR_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6374250,
+      "sha256": "51ae63af36f3c715d8430a70318ed620653df7d0d0d1bdb029b21f6953bd9b58"
+    }
+  ],
+  "prediction_index": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/10_authoritative_predictions_index/AUTHORITATIVE_PREDICTIONS_INDEX.csv",
+  "selected_final_test_predictions": [
+    {
+      "package": "S1_FROZEN_MASTER",
+      "setting": "S1",
+      "market": "BE",
+      "relative_path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/BE_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6374049,
+      "sha256": "ebba1e5097ac82f5fa0ba965a02e8051a94e12743e008ab463b4967800140fe6"
+    },
+    {
+      "package": "S1_FROZEN_MASTER",
+      "setting": "S1",
+      "market": "DE-LU",
+      "relative_path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/DE-LU_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6379415,
+      "sha256": "a3abf6bef970b1145c29c81e0d40527bd4bd5ac0f959d5f660540695fd043223"
+    },
+    {
+      "package": "S1_FROZEN_MASTER",
+      "setting": "S1",
+      "market": "DK1",
+      "relative_path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/DK1_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6420016,
+      "sha256": "2cdc757eb71273a7baa09f552a7d36ea7a72bb62b51db883ed4acbcede44a7f0"
+    },
+    {
+      "package": "S1_FROZEN_MASTER",
+      "setting": "S1",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/ES_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6191439,
+      "sha256": "a1998c33c0b6f8eb0174cf6e992ff9c121b8a55a5faed4feecfd87a88aa33a9d"
+    },
+    {
+      "package": "S1_FROZEN_MASTER",
+      "setting": "S1",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_MASTER_PUBLICATION/predictions/FR_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6374250,
+      "sha256": "51ae63af36f3c715d8430a70318ed620653df7d0d0d1bdb029b21f6953bd9b58"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_DA",
+      "market": "BE",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_DA/BE_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6384359,
+      "sha256": "80894ee8823943e57b6e6427d17fcaec91ab806e8c4b81a654f16a03ea191309"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_DA",
+      "market": "DE-LU",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_DA/DE-LU_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6390463,
+      "sha256": "e8f57554a94b4673fa7aa5e407a2e8dd53be5a6021c3046b9a21af62789d1c3e"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_DA",
+      "market": "DK1",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_DA/DK1_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6424670,
+      "sha256": "a90826db4e84675c535a9f96e5475a389107c285d149a90860ad281580a732fe"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_DA",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_DA/ES_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6195493,
+      "sha256": "c493ce05d74793178ffcf4e9d22662b8d619828d6f65d0a97cf6ad81819c3742"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_DA",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_DA/FR_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6375410,
+      "sha256": "db516d9b761ae163d04eeaa9d1ee5c4536d460b99f5f3c8e66122f54a7bef274"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_LEGACY",
+      "market": "BE",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_LEGACY/BE_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6374584,
+      "sha256": "ec185f83fd8bdf52cba75ef3bc21bfdf345d2c1b270f71505321bc8ea14cf1f5"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_LEGACY",
+      "market": "DE-LU",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_LEGACY/DE-LU_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6385380,
+      "sha256": "6193fb757e9e405fd9f47694f15ae1ce841efca51f3bbe067d433583ee335342"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_LEGACY",
+      "market": "DK1",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_LEGACY/DK1_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6424602,
+      "sha256": "66e643d3fd8ac0be3951cc41414d3f4772cfdcd0d2e12a10ebb8f2eaf487105e"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_LEGACY",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_LEGACY/ES_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6160887,
+      "sha256": "c3f889767005373e6f3531d5c6277b5ddb0814a1e4c3d9600259d566339e2c03"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S2_LEGACY",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S2_LEGACY/FR_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6371166,
+      "sha256": "56e2a47d73dbced0d223c2b0810ed9bd03414203d674aa924e5e3d41a6be2090"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S3",
+      "market": "BE",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S3/BE_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6387510,
+      "sha256": "9ca9253423a1dfae454e49fb8fa1523cf3216cee69148522aa7fedf19e56e88a"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S3",
+      "market": "DE-LU",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S3/DE-LU_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6386116,
+      "sha256": "b8401505688706ca48c915d582bd3fb5109dc73da9a60acb5f0594fed6d34b26"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S3",
+      "market": "DK1",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S3/DK1_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6427999,
+      "sha256": "bab476ea22f8855b052df6b728f5b238079ad56ad82f1605b1b4b3eb1f3f00b0"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S3",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S3/ES_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6190985,
+      "sha256": "60c72c98f1514f81d1d02928d451b7d76797919855a13c7f71b069ae28b70b24"
+    },
+    {
+      "package": "S2_S3_EXTENSION",
+      "setting": "S3",
+      "market": "ES",
+      "relative_path": "MERIF_FIVE_MARKET_S2_S3_XRM_EXTENSION/predictions/S3/FR_FINAL_TEST_PREDICTIONS.parquet",
+      "bytes": 6377339,
+      "sha256": "7e9ac815dd7ae9a1f92452d6a4f15dc7477f85eff4ff13a2dd4ed6d6a15effdc"
+    }
+  ],
+  "package_outputs": [
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_LINEAGE_MAP.csv",
+      "bytes": 15087,
+      "sha256": "5b20691a76216e8a8f5d1e4b350f5b07354e60f991aeadd4b72624005dbe17c1"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_MAIN_TEXT_TABLE_MAP.md",
+      "bytes": 811,
+      "sha256": "3d728b2d0395512e9e67db97bc40fd4ef2903b51a93871a1495f14cedcc1240a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_RESULT_LOCK.md",
+      "bytes": 3819,
+      "sha256": "b2f6914a29f59cdbcff091ec83227f065213439af8b8fdbc2bebabd19f823a7e"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_RESULT_SUMMARY.csv",
+      "bytes": 9824,
+      "sha256": "fba360d2a77550c37f78624b0e46c8998c518d253f3c16239e7cb05911030a6a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_SUPPLEMENTARY_TABLE_MAP.md",
+      "bytes": 975,
+      "sha256": "6e8319e0ca1047994bb78d0816de3dbe0bc8be2376e0233d7c1337361f902193"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/OPTIONAL_CONFIRMATION_NOTES.md",
+      "bytes": 679,
+      "sha256": "395def5d2ac6c85c4b3540ca28cd89a6ddcd786a36a1fd6b1472012fa5e5a1cf"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Appendix_EDA_BE_source.csv",
+      "bytes": 5131505,
+      "sha256": "448912ac8c00394cfa6c6cec366fb16d94946d9e48c22b49d28de35cf41b64e7"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Appendix_EDA_DE_LU_source.csv",
+      "bytes": 5319118,
+      "sha256": "999ac9f2d4ad3abce9798c4ded10cf1de61d209259c307da3d0d599779609e3f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Appendix_EDA_DK1_source.csv",
+      "bytes": 5361990,
+      "sha256": "3c58893275832f9fe23631ef85c037d5a5727256e94784b8a744f2166d4f55a6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Appendix_EDA_ES_source.csv",
+      "bytes": 5123581,
+      "sha256": "7dae34d41406e7d9cfde4dffc35996c7809944b8c6d9a942992fec6e7322b62c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Appendix_EDA_FR_source.csv",
+      "bytes": 5129664,
+      "sha256": "527b2eb6fad5983aaa87a94b7aded190dffc70f91e761bf35468a01d62a0ee9c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig10_Conditional_Regimes_source.csv",
+      "bytes": 6143,
+      "sha256": "13e756803f4a6af3be36eac20fef207ce8449c1b3078e0989c35dd6b936411c2"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig11_XRM_Support_Monitoring_source.csv",
+      "bytes": 8073,
+      "sha256": "a8d530527a36f23c143900f08f21503120909c03435903204cb43b8d550ec7f0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig12_Attribution_Robustness_Cost_source.csv",
+      "bytes": 25395,
+      "sha256": "78d3986b9d9ee62da0444a82fe7a728a99526c305037db1814a4d7a341536a5e"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig13_Integrated_Portability_Synthesis_source.csv",
+      "bytes": 4576,
+      "sha256": "9e88f1b1ef2c5c51e8baa8e145acbfa1d01eb935f7818d19e77d1666b390a30d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig5_Five_Market_Characteristics_source.csv",
+      "bytes": 68682,
+      "sha256": "0fdb66bafd91b90a165ea971ee206ba96bd58c4a5cf1449793ff678e01200d54"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig6_Central_Forecasting_source.csv",
+      "bytes": 3934,
+      "sha256": "6c525ae6f16073b5d67411f797f64888179e01cc2a34b1b4ca1e98c7e3004eaa"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig7_RCQR_Calibration_source.csv",
+      "bytes": 8523,
+      "sha256": "e57a7e131ccbd7e9923fceee5110316124f906e104f3f55f008065d2056854ef"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig8_Information_Settings_source.csv",
+      "bytes": 24765,
+      "sha256": "2f43dc79306b990aff3fc07af77dd4ec0e812bb2fac5da3114e4695ac36d3244"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/02_figure_source_tables/Fig9_Temporal_Robustness_Trajectories_source.csv",
+      "bytes": 2302207,
+      "sha256": "b97f0439410384fd8a5b4ce0a057cfda5406f6ba64749b7246adf23ad8af7dc5"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig10_Conditional_Regimes.pdf",
+      "bytes": 60332,
+      "sha256": "ac2f82a16e640c9be1fc1e4d33f1d71ce8d2502ca0308686e437a57114e088fd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig10_Conditional_Regimes.png",
+      "bytes": 457621,
+      "sha256": "69daf28911bc8480911802e8749f15b8d9976d8e462cc9ad1b7fe4b90876d364"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig10_Conditional_Regimes.svg",
+      "bytes": 65860,
+      "sha256": "03305447f99e875a7ba0133affe0e9464f324617d1f7c1ea60dc36e45fadbadf"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig10_Conditional_Regimes_QA.md",
+      "bytes": 744,
+      "sha256": "89c182bc59a9eca9c77faf806b83ea2e87c4e671c91da65be2841fb3236587e3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig11_XRM_Support_Monitoring.pdf",
+      "bytes": 57005,
+      "sha256": "2fe6fe12bfa271c24dd0d9c4cb9809f45988a7ee916c3309e90644e208f8716d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig11_XRM_Support_Monitoring.png",
+      "bytes": 569613,
+      "sha256": "1d7f9b506466c530a1d0e67124dbcd409e7c6cc957bd22a003f6b24a3c4f2558"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig11_XRM_Support_Monitoring.svg",
+      "bytes": 61757,
+      "sha256": "fb6a0ce48c10f7bca36b8b6f6366a1480096b4bd06f761304c9ce3641eaf8fd2"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig11_XRM_Support_Monitoring_QA.md",
+      "bytes": 788,
+      "sha256": "f932864492cb5625b9c9cd3f44952efaef3bb23b7c795f1167b993a400c781f3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig12_Attribution_Robustness_Cost.pdf",
+      "bytes": 80819,
+      "sha256": "7790af0d542fcf33225d909100bedf0dc9dda5c3a49e2b1c85161c7b84532ddb"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig12_Attribution_Robustness_Cost.png",
+      "bytes": 577842,
+      "sha256": "719ee18c10b15b22c2c461a9031275593a17caa97e753def08a1c6680c5b22ae"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig12_Attribution_Robustness_Cost.svg",
+      "bytes": 74878,
+      "sha256": "128a7fc2c47b281db1392b54a3946d68077f51f7474d0598b00d41ff2370c7e3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig12_Attribution_Robustness_Cost_QA.md",
+      "bytes": 773,
+      "sha256": "ca9c3b95b019753b38b060a22ef70d74ce189aa13204f9517a99b3176b00c021"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig13_Integrated_Portability_Synthesis.pdf",
+      "bytes": 60990,
+      "sha256": "1483473e2a00c4f7e7c70051917f930b20ed1408e4f11a56a1db1fc1e2dcdb76"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig13_Integrated_Portability_Synthesis.png",
+      "bytes": 466725,
+      "sha256": "82eaf958602eeacd4e8a0d9226f86e9244260722c0902e4b2c53de4adaedd708"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig13_Integrated_Portability_Synthesis.svg",
+      "bytes": 62705,
+      "sha256": "58e1d08a9976a907d552868ab1eff9d9c9e5f75adc46dc15bc33cf3212da2c5f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig13_Integrated_Portability_Synthesis_QA.md",
+      "bytes": 809,
+      "sha256": "0fcfd1f9e8545b0272aea785ed8fc64600e704a316d51df10c03a0d4e068df67"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig5_Five_Market_Characteristics.pdf",
+      "bytes": 73440,
+      "sha256": "37aa7f771b2d2a4097750e2e132a90f0163ae2b64ac3e838cb40b4bfcd55e1af"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig5_Five_Market_Characteristics.png",
+      "bytes": 452565,
+      "sha256": "f1bbce5a963f08b85dac8ea909f79d87f1edd49cff1c2be93c3a7221c9c93762"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig5_Five_Market_Characteristics.svg",
+      "bytes": 69848,
+      "sha256": "b7013f2ae344523ced3c4878e0ca7d2f5a48d39a08ff6264235969b370e7278b"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig5_Five_Market_Characteristics_QA.md",
+      "bytes": 764,
+      "sha256": "148113e09ccf32936cfdf9be3116defb2f8e47da5807ec0692286c94191d531d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig6_Central_Forecasting.pdf",
+      "bytes": 51693,
+      "sha256": "e6bf79517440eac9197b550bd882268e5acbc0a1442459a4269ba0d758862034"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig6_Central_Forecasting.png",
+      "bytes": 299280,
+      "sha256": "7c289fcdd9a6c7e6381d6a574abbb1a962f4bc79d9a089d14652489f56d93cc0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig6_Central_Forecasting.svg",
+      "bytes": 36881,
+      "sha256": "708816b4c6e0810743a7f85bd6dca7102882c8357b6268c02cbacce8790ce372"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig6_Central_Forecasting_QA.md",
+      "bytes": 736,
+      "sha256": "2e25796058d23e7b010028a40fd13583ba3349ff30a07f31e3c45b9e5066ad2b"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig7_RCQR_Calibration.pdf",
+      "bytes": 56667,
+      "sha256": "85d0b193eacb9d68f9c4aaf3f24ff579f1844e067757809b7ecb924196525c6b"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig7_RCQR_Calibration.png",
+      "bytes": 256421,
+      "sha256": "465a9652ec63af373ed3cc09702f0688de3deea51c8aa4604852edea4ed3a0f9"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig7_RCQR_Calibration.svg",
+      "bytes": 42363,
+      "sha256": "68c835a6e6ae4bbd8ed57fec92e160a62bc33bd07a0fda4f9e113eba6b47c730"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig7_RCQR_Calibration_QA.md",
+      "bytes": 727,
+      "sha256": "d23d8ba3806d9a62d4fc678a6f137001080fbf403cbc6a08fc092d941b80fe20"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig8_Information_Settings.pdf",
+      "bytes": 58402,
+      "sha256": "c0d4902311cadbfc9bf2e98cb23debef7f55fbe248e882239bfe166eac030758"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig8_Information_Settings.png",
+      "bytes": 582404,
+      "sha256": "9c35b69450767f110ddecd3b440d660cb70cd4a52dd8485f7fea62bb546fa1cc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig8_Information_Settings.svg",
+      "bytes": 57448,
+      "sha256": "d5bb1de2dce9a61636e856348a51619aa3ca92891e10cc4da010802c3ec583c3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig8_Information_Settings_QA.md",
+      "bytes": 804,
+      "sha256": "703baac850c2f0976f36df7b43cb528a928f3082995bc06d8dcd8bbfc606770d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig9_Temporal_Robustness_Trajectories.pdf",
+      "bytes": 194256,
+      "sha256": "a6e95137b22d2f1c0051beeb2a87266f670e680bfa5104a9feae9aa08af77349"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig9_Temporal_Robustness_Trajectories.png",
+      "bytes": 2575460,
+      "sha256": "ee0564c23fa0c4093188d7c814deeeb9029a6f14c4e5fe288e6a849ea1e5f4c6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig9_Temporal_Robustness_Trajectories.svg",
+      "bytes": 479540,
+      "sha256": "22b35d2e30f176d4db1aa59f65b0d0ca91c0918985682648c8b22c5a2d632db1"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Fig9_Temporal_Robustness_Trajectories_QA.md",
+      "bytes": 792,
+      "sha256": "39d26c78b578d7f9d2863ae87cfffd9a8fa524ef19ffe4c6c4ae4aa0f36ca49c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/03_publication_figures/Figure_Caption_Drafts_Fig5_to_Fig13.md",
+      "bytes": 4732,
+      "sha256": "2cfa0f59fc803adeaf54a490fb15f0298576cdd2389dacad3855d8769c3667aa"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_BE.pdf",
+      "bytes": 74291,
+      "sha256": "7670311a78bfa683c690b8b605dc05b159629afc9daf9d46d5a02edf33617d32"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_BE.png",
+      "bytes": 399960,
+      "sha256": "51cb2b8d403ea10f41764f8e4b1a18c6ed8312c4bb3966fcd46c390387cf1723"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_BE.svg",
+      "bytes": 111993,
+      "sha256": "6da80e4f6034c6e3dc3321a54dc72a95bef74c7737efdb1edaeddb4f76667f01"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_BE_QA.md",
+      "bytes": 368,
+      "sha256": "610d8ff7b49e4a763d46abf406bdcd330f2ea3cdd95c59b7cc5c1618012f3085"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DE_LU.pdf",
+      "bytes": 74057,
+      "sha256": "aea54653cd761a28f251df5d6aea4a8be6b3dfd0fce731e085b2553f87a1000c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DE_LU.png",
+      "bytes": 425864,
+      "sha256": "52110af716e6448e02a73630dc0860c92e482c0f85dbec0803326facf423db3c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DE_LU.svg",
+      "bytes": 113847,
+      "sha256": "5951f6ca2b39e3321e3a91707b3e17f347f7491d41970ddbb199ff53753abe3d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DE_LU_QA.md",
+      "bytes": 374,
+      "sha256": "03003a37b8e26cb5ffdf3d3d921d7a019cd093c030a9b3d6fbfa44fbf716d414"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DK1.pdf",
+      "bytes": 74095,
+      "sha256": "8e3d92595fe61d6c744053485fa473a87257fa3582b8e898565d1c95e65eaab5"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DK1.png",
+      "bytes": 421904,
+      "sha256": "7cd05993fc5e77d37a1b009af44843d4f892885e9399b65635df45287b93372a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DK1.svg",
+      "bytes": 114238,
+      "sha256": "de53d7096b917bad96591d1ce41646bbec5d94fd8c7639138cf8f220391aa9fb"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_DK1_QA.md",
+      "bytes": 370,
+      "sha256": "1772833c4d41a57713f6e9889cae5a34f0df54fe445105504d2429148f215f8c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_ES.pdf",
+      "bytes": 75481,
+      "sha256": "6118da1710930ae6ffd36f2babe61ac54081555d353d39012c5c0eb2cc76d2a7"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_ES.png",
+      "bytes": 428442,
+      "sha256": "208ad4c0b59484f73f90f084dc9ba2e8cf55d8f220b7f835bca3da1a9c4c2415"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_ES.svg",
+      "bytes": 117929,
+      "sha256": "19283d4a3cc8b512bb63e12c86b984c0e00f86c68833105479d83fbecb877dfe"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_ES_QA.md",
+      "bytes": 368,
+      "sha256": "d58580a6893b284e6522527846bb5edc1713b18ed19d7c85a53cde55bca452e0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_FR.pdf",
+      "bytes": 71874,
+      "sha256": "57ff52745b6bb5bbf468c02fc30a8b782e05e69f3f7992cdc3355b7d9ae8ca56"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_FR.png",
+      "bytes": 395655,
+      "sha256": "6f08a411f1177755e615f5bc1d74d8554058e23fa0a979383054f252b4ea9e47"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_FR.svg",
+      "bytes": 107660,
+      "sha256": "2eff574f6cc32ca8c2140054b8ffa409715ec2fee108b1a32242154451c47582"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/04_appendix_figures/Appendix_EDA_FR_QA.md",
+      "bytes": 368,
+      "sha256": "962c02294acb642d3f1fde7a658ab88e0c0425a1e5eae8b51906b18c2f076cdd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Appendix_EDA_BE_caption.md",
+      "bytes": 293,
+      "sha256": "55f282fb9bf18dafcb95803eb10c093fcfaa41dd9e7320d22c47954ea20052cc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Appendix_EDA_DE_LU_caption.md",
+      "bytes": 296,
+      "sha256": "50a5bfa5eb994f68868934f0a5604d048eb55c3c2edb1e3264f20abc78e1b92a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Appendix_EDA_DK1_caption.md",
+      "bytes": 294,
+      "sha256": "41dd3daaa5b1b454a4cab42414a96818a32bbc4e768c4b1c294649029ca5defe"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Appendix_EDA_ES_caption.md",
+      "bytes": 293,
+      "sha256": "5b073c9541e9ec61e511a208c6d5a0cc83db52af2d3fc54862a1f195187eb5dc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Appendix_EDA_FR_caption.md",
+      "bytes": 293,
+      "sha256": "be703b31b45b5d5be86e20d18b75b7d8cb0314eb5c5902f98721a9a204b8728a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig10_caption.md",
+      "bytes": 500,
+      "sha256": "bd87fc3f08fcfd5e44905deb8679e265ed2ae1d8aa92cd0748bec1551e7d5dcd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig11_caption.md",
+      "bytes": 531,
+      "sha256": "30c1f07a2bb706e3e65ab621c31daef85814a02e9635f084229d63f2f29594df"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig12_caption.md",
+      "bytes": 550,
+      "sha256": "9ee56608c3ccca8388dc71c79e469d6176dfa7d89f7650ab6d3862f40e8f9dc6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig13_caption.md",
+      "bytes": 564,
+      "sha256": "da12eeefa8d3b493910d04e586fff16e6303ab89f7270357eca84374f29800e1"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig5_caption.md",
+      "bytes": 534,
+      "sha256": "32c22d830153e35587bba989c4fed5a91a2e676e95491ad5c0e08628956a3775"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig6_caption.md",
+      "bytes": 496,
+      "sha256": "83199c699a2f226127557c31c38ca789433394965e99709738c163bb00e1b97f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig7_caption.md",
+      "bytes": 470,
+      "sha256": "6b0369ede28071601c052d750865fe4f7f620f02f4b04e2a4fb4eb484fa6f8c2"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig8_caption.md",
+      "bytes": 527,
+      "sha256": "d111a8ed0bbcb188d41d056f188b2da91a38eeab0721e52546e7ce2f3d850531"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Fig9_caption.md",
+      "bytes": 498,
+      "sha256": "e2b03185aeacf2304457ee5469555ae86b4973cba2b3403eac79ef80303d4024"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/05_captions/Figure_Caption_Drafts_Fig5_to_Fig13.md",
+      "bytes": 4732,
+      "sha256": "2cfa0f59fc803adeaf54a490fb15f0298576cdd2389dacad3855d8769c3667aa"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Figure_Callout_Map.csv",
+      "bytes": 1192,
+      "sha256": "0d893ea0155f139df8d3ff593ecd563526ee7628d06fc3e11339f7993d734d78"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Five_Market_Master_Draft.md",
+      "bytes": 12974,
+      "sha256": "56c61bad2531f426b238f7db06137c1513e3c9952ff1edcd8ed61867078346e3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Five_Market_Shorter_MainText_Version.md",
+      "bytes": 3501,
+      "sha256": "4cc44b4cb1f59511e54726c002eb3d1ec549fdbf86fda322508abb7e24b8bf54"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_1.md",
+      "bytes": 1477,
+      "sha256": "87a9124f34525ca274ddd0a70fbf045c6db9c88353d0887fe27e0bbf8b9f4c01"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_2.md",
+      "bytes": 1543,
+      "sha256": "4d732fe36e963fe26fff4512a8bae298be5df78955d102333bbc942babe31b5d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_3.md",
+      "bytes": 1303,
+      "sha256": "fec9a926ba3388a4a37a87e44463e27c4c3b7f991d68b02e69917d36af842697"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_4.md",
+      "bytes": 1564,
+      "sha256": "0c7bd1484f522cb436245f8971f1d6c72a3e2cc96dc8d3636f7737d7cf08d820"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_5.md",
+      "bytes": 1336,
+      "sha256": "80cb328093762ff09bae94dd2d288efbe0128b942ce7dbac7b28b7fbb9b8dfbf"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_6.md",
+      "bytes": 1469,
+      "sha256": "e783ca5836dbffc1bc889a6dcec974a4bbca667f55f7b14b4701a5c0116dde3d"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_7.md",
+      "bytes": 1167,
+      "sha256": "b4ff1239d7dda2c608d3a6b95e6005ffe3315d09ba057006d46d010328a4d886"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_8.md",
+      "bytes": 1671,
+      "sha256": "fe9a0032236811c4aeb4700747a476cab27add7cd935ca56d9f9747d4c4b350c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/06_section3_redesign/Section3_Subsections_Separated/Section_3_9.md",
+      "bytes": 1410,
+      "sha256": "7f0f4d128c97148e05af7475d1b4d518a3d86cf2c906fae18ac88233237eee91"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/Figure_Execution_Order.md",
+      "bytes": 1372,
+      "sha256": "4250b4555f92dad5573555f0eda4ebf357a627a3ecf49d9488fa9959c19a13c3"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/Figures_5_13_Redesign_Plan.md",
+      "bytes": 8847,
+      "sha256": "dfc0e6d17e882615667ea37e32c2a21383ad52476b1f04f875b3269cf530022f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/MainText_vs_Appendix_Figure_Decisions.md",
+      "bytes": 1867,
+      "sha256": "c32b2e252378c9566e95bf914dfec3eb3e8669d5b0c55d619983b12c166f0b3c"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/Overall_Manuscript_Restructure_Notes.md",
+      "bytes": 2534,
+      "sha256": "3fde6a755581642fb5bb64b9b6c9f485bc54af519afd2fe627177eabbd1df755"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/Section3_Restructure_Memo.md",
+      "bytes": 3346,
+      "sha256": "d32507deff098ca188eff95af1ece3f49421309b6df10821fd332404e624f5b6"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/07_manuscript_restructure/TERMINOLOGY_LEDGER.md",
+      "bytes": 1521,
+      "sha256": "e98eaca1e8f91324432babeab245456c52a370e93a4e54e1b4e4fae1d50ac4c4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/APPENDIX_EDA_CONTACT_SHEET.png",
+      "bytes": 488360,
+      "sha256": "61d7e76d46aa06ffd9a363d5c49ba10b7da32aec4240bac78dabdfffbfae5bcc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/AUTHORITATIVE_SOURCE_FILE_HASHES.csv",
+      "bytes": 7210,
+      "sha256": "f86066853e284fa90495f87acb19b9cf17168b48394b40c2327256b3c946e7ac"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/FIGURE_CONTRACTS.md",
+      "bytes": 1688,
+      "sha256": "8b15259e87dfc071bc8648e147921ccd10119735946d4ce4d897b38fc5c062d7"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/PACKAGING_QA.md",
+      "bytes": 5632,
+      "sha256": "4616a8d584f28440bc461d510382bf37d04c0ab49bbdef74a28009dd28654fe0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/PACKAGING_QA_ROUND1.md",
+      "bytes": 3999,
+      "sha256": "2459b735d7ea5fb486c86443ef116eea835417d27985fe03e6fb8ed357a52bfe"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/PACKAGING_QA_ROUND2.md",
+      "bytes": 1957,
+      "sha256": "456b1a9d74f5644fc13f5f7f3dd680ebd90292595e13e361a536250034a3e4b4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/PUBLICATION_FIGURES_CONTACT_SHEET.png",
+      "bytes": 1321210,
+      "sha256": "14e3651d849341323f6ff030439853809c4b8a5847890ea1c87d47ac2f51913f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/08_audit_and_manifest/SOURCE_MANUSCRIPT_HASHES_AT_PACKAGING_CLOSE.csv",
+      "bytes": 438,
+      "sha256": "1f2cfda3e107c40e6b950b2efe43c84713afccb749b1ae17b4ffd50bf556e2b9"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Main_Text_Table_Design.md",
+      "bytes": 2026,
+      "sha256": "8ba35b358ca325a1d57175eb80e7f9af445045e78a4795fa42de81c9011870a4"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_1_Five_Market_Data.csv",
+      "bytes": 821,
+      "sha256": "5ebf32bc48bf6fdddb05bac9010c8c15ccdb25d0aee4c01e9ee56909755d6043"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_2_Five_Market_Central.csv",
+      "bytes": 865,
+      "sha256": "73c61579c6c36661f177a9709a454db3bd7a7617d18006e9092679f5bd9c2d12"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_3_Five_Market_RCQR.csv",
+      "bytes": 1127,
+      "sha256": "cb205919d02f8d06fb40c9446b586cbfc93b849af01398436f99eb9748e83aa0"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_4_Five_Market_XRM.csv",
+      "bytes": 626,
+      "sha256": "b7763d58aa59b44b63d5cdc5d9145841bbe55b03d822d927528305acedb9b38f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_5_Five_Market_Inference.csv",
+      "bytes": 3743,
+      "sha256": "52e76e067e6a89e80ddae2d581b3ccd1cd36b6e266b457cddf0b3125e9efe6af"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Main_6_Five_Market_Cost.csv",
+      "bytes": 1232,
+      "sha256": "88e362443c4fbaf13abd0da113afca9ff4ea8e78b49f645450eeb5bde241f776"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_Cross_Setting_Bootstrap.csv",
+      "bytes": 23743,
+      "sha256": "bd4dd1e1cdd830aa2768321dc5aa9ef7ae2eb30c6bd58bb8561e2f483bd8344f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_Cross_Setting_Deltas.csv",
+      "bytes": 61340,
+      "sha256": "37a5c67f15113d05e5d7ee000992770a7f8c0ae89d9f695ae0b211f2dc9f6222"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S1_Feature_Outage.csv",
+      "bytes": 21506,
+      "sha256": "c098c6af5cec3f4d6c0941419b3efc027421e30debb77963c741579f9354242a"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S1_Negative_Price_Regimes.csv",
+      "bytes": 2472,
+      "sha256": "64cb43351bade948439bb5f1694ef1ff75599fd2896b3f45123369eb604c9d53"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S1_RCQR_Window_Sensitivity.csv",
+      "bytes": 13232,
+      "sha256": "e958dc9f5185b201e389370f4887aa071401fb212468e21cc54818a91c911691"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S1_Temporal_Slices.csv",
+      "bytes": 8799,
+      "sha256": "f3cd2b1719a97c90eea1d156c6e907d931c1ef3b4a0969183649175503a4f171"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S1_Upper_Tail_Escalation.csv",
+      "bytes": 5161,
+      "sha256": "4c993939f2133cce73ad8ff02b4b4c7d92ce61bcb6fee2bf843ba10c92f9cd36"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/09_authoritative_tables/Table_Supp_S2DA_Feature_Outage.csv",
+      "bytes": 39268,
+      "sha256": "d165b13f2b6a16e8a4ebd03d237335ba696428e79235e4bfa370b2b3a9ef5382"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/10_authoritative_predictions_index/AUTHORITATIVE_PREDICTIONS_INDEX.csv",
+      "bytes": 30087,
+      "sha256": "88691c02d208e31ff457e77a37fde7dc7734cee2fe6767109ae9e78d36c2410b"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/10_authoritative_predictions_index/README.md",
+      "bytes": 311,
+      "sha256": "4ef406faa2baed5afdc0d677e2e9245f7b8720c41ff92255403fb437a508c6fd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/__pycache__/build_authoritative_core.cpython-311.pyc",
+      "bytes": 26170,
+      "sha256": "0dce5105926e5e3e03850d50158096a8661c27e88de7c2c50155410d7a2d742f"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/__pycache__/finalize_authoritative_package.cpython-311.pyc",
+      "bytes": 52010,
+      "sha256": "12500300af42a3f362e3a775390d4555d2a9231de0a78abfea3e572c28c60a12"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/__pycache__/make_authoritative_figures.cpython-311.pyc",
+      "bytes": 84947,
+      "sha256": "905f1cded640a4bac25efa85a60945e2c7576b5930f79d362ff9a6f38f6456d5"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/__pycache__/write_design_docs.cpython-311.pyc",
+      "bytes": 32915,
+      "sha256": "b582cfb6808d52e66f1802475395e0df14f987fe9b556e618c024747dcd632cd"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/__pycache__/write_manuscript_package.cpython-311.pyc",
+      "bytes": 35922,
+      "sha256": "fc669dfb1a52f614e55e9c6702e2862ebf053f97bf495ec9963e0bcfa499e1fc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/build_authoritative_core.py",
+      "bytes": 18333,
+      "sha256": "151bd030cdd3560a1d93062de9d8116b129baa5ce7083bcf18d2ae3635252bc1"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/finalize_authoritative_package.py",
+      "bytes": 30434,
+      "sha256": "f55b7ee1b80207ca5e6582c7aaefe07c1cef59ece546d0196e226890144562f9"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/make_authoritative_figures.py",
+      "bytes": 41772,
+      "sha256": "7f6b962f5bf6cff4826316c1390214d886bd6fc7318e06da8900789b346071dc"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/write_design_docs.py",
+      "bytes": 31065,
+      "sha256": "51ae16c40366da483cf06daaab95a1562f4524cb06dcc3e4981abe44fd504adf"
+    },
+    {
+      "path": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/code/write_manuscript_package.py",
+      "bytes": 22642,
+      "sha256": "974f39a05ca70273b44733d335e0f95bf68cc6f6662a8577ed64c97fb8db99a9"
+    }
+  ],
+  "lineage_map": "MERIF_FIVE_MARKET_AUTHORITATIVE_PACKAGE/01_authoritative_results/AUTHORITATIVE_LINEAGE_MAP.csv"
+}

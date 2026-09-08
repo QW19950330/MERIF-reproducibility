@@ -1,0 +1,1 @@
+Fig. E11. Full XRM support and ranking sensitivity under S1 on the COMMON_MASK. Panels (a-e) show prevalence and AUPRC for TSQR q0.50, TSQR q0.90, and XRM across P90-P99. Faded backgrounds mark levels with fewer than ten held-out events. Panel (f) reports held-out support on a log scale. Ordered straight guides are visual aids; low-support estimates are descriptive.

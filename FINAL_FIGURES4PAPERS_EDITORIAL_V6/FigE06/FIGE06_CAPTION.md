@@ -1,0 +1,1 @@
+Fig. E6. Full information-setting comparison on GLOBAL_COMMON (N = 15,311 per market-setting cell). Heatmaps report normalized central errors, raw and RCQR coverage gaps, normalized RCQR interval score, and P95 XRM AUPRC for S1, S2_LEGACY, S2_DA, and S3. S3 uses realized target-hour system variables and is explicitly ex-post; it is not an operational setting.

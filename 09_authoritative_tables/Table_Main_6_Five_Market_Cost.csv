@@ -1,0 +1,6 @@
+market,training_time_total_seconds_median,inference_24_products_ms_median,XRM_24_products_ms_median,RCQR_daily_update_ms_median,model_load_seconds,memory_peak_bytes,serialized_model_bytes,full_training_repeat_status
+DE-LU,4005.1578140000056,189.05630000517704,0.1693000085651874,0.0746414710837525,7.25578950002091,1954058240,630838898,ONE PRIMARY FIT; five full refits not computationally feasible; no old timing reused
+DK1,2871.96247470002,197.85419999971052,0.1506000116933137,0.072178716746892,7.063424199994188,1917431808,670953490,ONE PRIMARY FIT; five full refits not computationally feasible; no old timing reused
+BE,4843.245141499996,194.2237000039313,0.1432000135537237,0.0731600313462013,7.497329200006789,1938644992,630946219,ONE PRIMARY FIT; five full refits not computationally feasible; no old timing reused
+ES,4115.089534499988,194.1170000063721,0.1535999763291329,0.0721967136174009,7.281196099997032,1836625920,626577710,ONE PRIMARY FIT; five full refits not computationally feasible; no old timing reused
+FR,4913.430445700011,190.80310000572356,0.1448999973945319,0.0759984325905123,7.208327500004088,1811599360,628528820,ONE PRIMARY FIT; five full refits not computationally feasible; no old timing reused

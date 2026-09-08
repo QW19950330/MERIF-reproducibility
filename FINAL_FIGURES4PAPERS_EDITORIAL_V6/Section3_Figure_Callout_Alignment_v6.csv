@@ -1,0 +1,10 @@
+subsection,candidate_figures,scientific_function,priority,first_callout_location,supplementary_links
+3.1,"Fig. 5","market heterogeneity and P95 support boundary",A,"paragraph 2","Figs. E1-E5"
+3.2,"Figs. 6-7","central performance and module attribution","A; C","paragraphs 1 and 3","candidate Fig. 7 may move to Supplementary"
+3.3,"Figs. 8-9","marginal RCQR effect and window sensitivity","A; C","paragraphs 1 and 3","Fig. E10"
+3.4,"Fig. 10","S1 versus S2_DA on GLOBAL_COMMON",A,"paragraph 1","Figs. E6-E7"
+3.5,"Figs. 11-12","calendar robustness and exact synchronized trajectories","A; A","paragraphs 1 and 3","Figs. E8-E9 and E15"
+3.6,"Figs. 13-14","negative-price conditional behavior and upper-tail escalation","A; A","paragraphs 1 and 3","support values embedded in source/lineage"
+3.7,"Fig. 15","P95 XRM ranking and operating-point boundary",A,"paragraph 1","Figs. E11-E12"
+3.8,"Fig. 16","feature-outage sensitivity and online cost",B,"paragraph 1","Figs. E13-E14"
+3.9,"Fig. 17","integrated objective-specific portability synthesis",A,"paragraph 1","all robustness figures"

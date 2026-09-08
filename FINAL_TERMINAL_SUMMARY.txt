@@ -1,0 +1,37 @@
+MERIF FIVE-MARKET AUTHORITATIVE PACKAGING COMPLETE
+
+1. Authoritative package created: YES
+2. Section 3 redesigned as five-market structure: YES
+3. Figures 5–13 redesign plan created: YES
+4. Main-text vs Appendix split decided: YES
+5. Publication candidate figures exported: YES — 9 figures, each as PNG/PDF/SVG with source CSV and QA
+6. Appendix EDA figure set exported: YES — DE-LU, DK1, BE, ES, FR
+7. Figure captions drafted: YES — master file plus nine separate captions
+8. Section 3 full draft written: YES
+9. Shorter Section 3 version written: YES
+10. Final recommended strongest narrative:
+    Under one common chronological protocol and market-specific re-estimation, the MERIF pipeline lowers final-test MAE relative to Persistence across all five studied bidding zones. RCQR is the most reproducible module: it reduces marginal coverage gaps and interval scores in every market while increasing width. The incremental TSQR-over-SQR effect is positive but modest, state-conditional reliability is less stable, and XRM remains heterogeneous and event-support limited.
+11. Final recommended main-text figure strategy:
+    Use one comparative figure per scientific question: market context (Fig. 5), central performance (Fig. 6), RCQR calibration (Fig. 7), information availability (Fig. 8), temporal behavior (Fig. 9), conditional limits (Fig. 10), XRM/support (Fig. 11), attribution/robustness/cost (Fig. 12), and integrated claim hierarchy (Fig. 13). Keep per-market EDA, extended thresholds, rolling origins, and full sensitivities in the Appendix/Supplementary Information.
+12. Final recommended Section 3 structure:
+    3.1 Five-market characteristics and context
+    3.2 Central forecasting across five markets
+    3.3 Interval calibration and probabilistic accuracy
+    3.4 Information availability: S1 vs S2_DA, with S2_LEGACY/S3 context
+    3.5 Temporal robustness and synchronized trajectories
+    3.6 Negative-price and upper-tail conditional behavior
+    3.7 XRM ranking, support, and monitoring limits
+    3.8 Module attribution, robustness, and computational cost
+    3.9 Integrated procedural portability and external validity
+13. Files most important to send back to ChatGPT for review:
+    01_authoritative_results/AUTHORITATIVE_RESULT_LOCK.md
+    01_authoritative_results/AUTHORITATIVE_RESULT_SUMMARY.csv
+    01_authoritative_results/AUTHORITATIVE_LINEAGE_MAP.csv
+    01_authoritative_results/AUTHORITATIVE_REPRODUCIBILITY_MANIFEST.json
+    06_section3_redesign/Section3_Five_Market_Master_Draft.md
+    06_section3_redesign/Section3_Five_Market_Shorter_MainText_Version.md
+    07_manuscript_restructure/Figures_5_13_Redesign_Plan.md
+    07_manuscript_restructure/Section3_Restructure_Memo.md
+    03_publication_figures/Figure_Caption_Drafts_Fig5_to_Fig13.md
+    08_audit_and_manifest/PACKAGING_QA.md
+    08_audit_and_manifest/PUBLICATION_FIGURES_CONTACT_SHEET.png

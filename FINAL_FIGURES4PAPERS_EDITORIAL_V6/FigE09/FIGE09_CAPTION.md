@@ -1,0 +1,1 @@
+Fig. E9. Synchronized five-market trajectories for the locked spring held-out window. Exact observed prices, TSQR medians, raw 80% intervals, and W60 RCQR 80% intervals are plotted without smoothing on market-specific vertical scales. The panels are descriptive.
